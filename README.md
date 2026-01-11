@@ -1,6 +1,6 @@
 # Homework: Debugging C
 
-Name:
+Name: Bailey Jung
 
 
 Link to Assignment on Github: (copy and paste the link to your assignment repo here)
