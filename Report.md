@@ -4,7 +4,7 @@
 
 2. What operating system do you use? Mac OS
 
-3. Explain the `-Wall` option for your C compiler. Putting -Wall in the compiler enables warning messages that helps the coder now why their code isn't compiling.
+3. Explain the `-Wall` option for your C compiler. Putting -Wall in the compiler enables warning messages that helps the coder know why their code isn't compiling.
 
     3a. Copy and paste the `SYNOPSIS` section from the gcc manual page (Hint: what is the linux command to get this?). Make sure to use a preformatted text block below
 
