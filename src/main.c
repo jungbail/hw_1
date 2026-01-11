@@ -53,7 +53,7 @@ int main(int argc, char const *argv[])
     char* name = get_name(); // This is a function call, it calls the get_name function, and stores the return value in the name variable
     int number = get_number(); // This is a function call, it calls the get_number function, and stores the return value in the number variable
 
-    printf("Hello %s\n", name); // This is a function call, it calls the printf function, which prints the name variable to the command line
+    printf("\nHello %s\n", name); // This is a function call, it calls the printf function, which prints the name variable to the command line
 
     if(number > 20) { // C uses the basic conditions of >=, >, <=, <, ==, != (not equal to). For logical operators it uses && (and), || (or), ! (not)
         printf("You are old enough to drink in the US\n");
