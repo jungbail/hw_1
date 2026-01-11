@@ -1,8 +1,8 @@
 # Report
 
-1. In C, do you use printf or print?
+1. In C, do you use printf or print? printf
 
-2. What operating system do you use?
+2. What operating system do you use? Mac OS
 
 3. Explain the `-Wall` option for your C compiler.
 
