@@ -61,9 +61,9 @@ int main(int argc, char const *argv[])
         printf("You are not old enough to drink in the US\n"); // This is a function call, it calls the printf function
     }
 
-
+    printf("Goodbye %s\n", name);
     free(name); // This frees the memory of the name variable, which was allocated in the get_name function
-    printf("Hello %s", name); 
+
     
     return 0;
 }
