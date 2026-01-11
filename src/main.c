@@ -30,7 +30,7 @@ int get_number() // This is a function that returns an int
     int number; // This is a local variable, it is only available within this function
     printf("Please enter a number:"); // This is a function call, it calls the printf function
     scanf("%d", &number); // This is a function call, it calls the scanf function, which reads from the command line,
-                          // and stores the value in the number variable
+    return 0;                      // and stores the value in the number variable
 }
 
 /**
